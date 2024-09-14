@@ -1,5 +1,5 @@
 
 fun main(){
 
-    println("salut jack")
+    println("salut")
 }
